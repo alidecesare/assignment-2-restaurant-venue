@@ -42,7 +42,7 @@ p{
 .column-image{
   display: flex;
   justify-content: center;
-  margin-top: 80px;
+  margin-top: 120px;
 }
 .column-container-left{
   margin-left: -500px;
